@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_dialog_player",
+  "audioGroupId":{
+    "name":"audiogroup_sound_effect",
+    "path":"audiogroups/audiogroup_sound_effect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.401497,
+  "name":"snd_dialog_player",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_dialog_player.wav",
+  "type":0,
+  "volume":1.0,
+}

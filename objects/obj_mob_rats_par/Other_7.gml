@@ -1,0 +1,1 @@
+if (sprite_index == spr_rat_die){instance_destroy();}

@@ -1,0 +1,1 @@
+if (sprite_index == spr_boss_falso_luz_efeito){sprite_index = spr_boss_falso_luz_efeito_final}

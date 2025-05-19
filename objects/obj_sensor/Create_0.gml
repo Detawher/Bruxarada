@@ -1,0 +1,2 @@
+player = false;
+key = false;

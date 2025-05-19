@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_walk_3",
+  "audioGroupId":{
+    "name":"audiogroup_sound_effect",
+    "path":"audiogroups/audiogroup_sound_effect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.378163,
+  "name":"snd_walk_3",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_walk_3.wav",
+  "type":0,
+  "volume":1.0,
+}

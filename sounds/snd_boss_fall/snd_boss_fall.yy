@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_boss_fall",
+  "audioGroupId":{
+    "name":"audiogroup_sound_effect",
+    "path":"audiogroups/audiogroup_sound_effect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.09932,
+  "name":"snd_boss_fall",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_boss_fall.ogg",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+if (sprite_index == spr_hit){instance_destroy()};

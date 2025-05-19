@@ -1,0 +1,1 @@
+shake_length = 0;

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_boss_falso_porta",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":7.913787,
+  "name":"snd_boss_falso_porta",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_boss_falso_porta.ogg",
+  "type":0,
+  "volume":1.0,
+}

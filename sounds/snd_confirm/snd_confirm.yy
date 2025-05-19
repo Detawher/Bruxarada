@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_confirm",
+  "audioGroupId":{
+    "name":"audiogroup_sound_effect",
+    "path":"audiogroups/audiogroup_sound_effect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.371814,
+  "name":"snd_confirm",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_confirm.ogg",
+  "type":0,
+  "volume":1.0,
+}

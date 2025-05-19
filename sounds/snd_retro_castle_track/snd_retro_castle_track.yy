@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_retro_castle_track",
+  "audioGroupId":{
+    "name":"audiogroup_music",
+    "path":"audiogroups/audiogroup_music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":205.62363,
+  "name":"snd_retro_castle_track",
+  "parent":{
+    "name":"musica",
+    "path":"folders/Sons/musica.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_retro_castle_track.ogg",
+  "type":0,
+  "volume":1.0,
+}

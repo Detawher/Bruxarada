@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_ambiente",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":35.12195,
+  "name":"snd_ambiente",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ambiente.ogg",
+  "type":0,
+  "volume":0.5,
+}
